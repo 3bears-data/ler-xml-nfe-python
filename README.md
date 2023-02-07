@@ -4,10 +4,10 @@ Script em python para ler um repositório com xml de nota fiscais eletronica.
 Testado no python 3.7
 
 1) Baixe o projeto em sua máquina local.
-git clone https://github.com/3bears-data/ler-xml-nfe-python.git
+  git clone https://github.com/3bears-data/ler-xml-nfe-python.git
 
 2) Instale as libs do requirements.txt
-pip install -r requirements.txt
+  pip install -r requirements.txt
 
 3) Crie uma pasta dentro do projeto por nome de nfe e outra por nome de convert.
 
